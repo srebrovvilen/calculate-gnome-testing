@@ -1,4 +1,4 @@
-# Calculate name=world format=world
+# Calculate format=world name=world
 
 #?in(os_linux_pkglist, CLDG)!=#
 app-arch/lbzip2
@@ -28,7 +28,6 @@ app-editors/vim
 app-vim/colorschemes
 sys-apps/inxi
 sys-fs/mdadm
-sys-process/htop
 #in#
 
 #?in(os_linux_pkglist, CLDG)!=#

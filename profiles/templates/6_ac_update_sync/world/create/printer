@@ -1,7 +1,6 @@
-# Calculate name=world format=world
+# Calculate format=world name=world
 
 #?in(os_linux_pkglist, CLDG)!=#
-media-gfx/epsonscan2
 net-print/cndrvcups-common-lb
 net-print/cnijfilter2
 net-print/cups
@@ -16,3 +15,7 @@ net-print/hplip-plugin
 app-admin/system-config-printer
 #in#
 
+
+#?in(os_linux_pkglist, CLDG)!=#
+media-gfx/simple-scan
+#in#

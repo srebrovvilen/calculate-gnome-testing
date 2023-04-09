@@ -1,7 +1,6 @@
-# Calculate name=world format=world
+# Calculate format=world name=world
 
 #?in(os_linux_pkglist, CLDG)!=#
-
 # core-libs
 gnome-base/gnome-core-libs
 
@@ -48,7 +47,7 @@ gnome-base/gnome-extra-apps
 
 # extensions
 gnome-extra/gnome-browser-connector
+gnome-extra/gnome-shell-extension-appindicator
 gnome-extra/gnome-shell-extension-dash-to-dock
 gnome-extra/gnome-shell-extension-desktop-icons-ng
-gnome-extra/gnome-shell-extension-appindicator
 #in#
