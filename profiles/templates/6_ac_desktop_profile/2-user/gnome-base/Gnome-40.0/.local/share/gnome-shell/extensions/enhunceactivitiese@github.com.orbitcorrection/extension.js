@@ -46,7 +46,7 @@ class ActivitiesIndicator extends PanelMenu.Button {
         const box = new St.BoxLayout();
         this.add_child(box);
         
-        this._icon = new St.Icon({ icon_name: 'start-here',
+        this._icon = new St.Icon({ icon_name: 'calculate',
                                    style_class: 'panel-logo-icon', });
         box.add_child(this._icon);
         
