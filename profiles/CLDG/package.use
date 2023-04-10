@@ -61,7 +61,7 @@ www-client/chromium -gnome-keyring
 # x11-wm/mutter -gnome
 
 # Gnome-terminal
-x11-terms/gnome-terminal gnome-shell
+x11-terms/gnome-terminal gnome-shell nautilus
 
 # There is a cyclic dependency of packages with USE="gnome"
 media-libs/libcanberra -gnome sound
