@@ -1,4 +1,4 @@
-# Calculate format=world name=world
+# Calculate name=world format=world
 
 #?in(os_linux_pkglist, CLDG)!=#
 media-gfx/grub-splashes-calculate
@@ -9,6 +9,7 @@ media-fonts/noto-emoji
 media-gfx/calculate-wallpapers
 media-gfx/dm-themes-calculate
 media-gfx/splash-themes-calculate
+x11-themes/calculate-icon-theme
 #in#
 
 #?in(os_linux_pkglist, CLDG)!=#

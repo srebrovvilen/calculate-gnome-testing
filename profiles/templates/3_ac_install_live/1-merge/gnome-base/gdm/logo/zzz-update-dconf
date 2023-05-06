@@ -1,4 +1,4 @@
-# Calculate exec=/bin/bash pkg(gnome-base/gdm)>=40.0&&pkg(gnome-base/dconf)>=0.40.0
+# Calculate pkg(gnome-base/dconf)>=0.40.0 exec=/bin/bash
 
 # Обновление dconf
 /usr/bin/dconf update
