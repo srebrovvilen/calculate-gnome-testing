@@ -1,1 +1,1 @@
-This is calculate-gnome-testing repository
+This is *calculate-gnome-testing* repository
